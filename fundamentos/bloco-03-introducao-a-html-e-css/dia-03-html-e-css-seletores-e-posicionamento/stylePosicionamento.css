@@ -8,31 +8,32 @@
     width: 100px;
     position: absolute;
     z-index: 1;
-    top: 400px;
-    left: 60px;
+    top: 320px;
+    left: 200px;
 
   }
   
   .baloon {
     position: absolute;
     z-index: 1;
-    top: 600px;
+    top: 100px;
+    left: 280px;
   }
   
   .speach {
     font-size: 25px;
     position: absolute;
     z-index: 3;
-    top: 650px;
-    left: 35px;
+    top: 150px;
+    left: 300px;
   }
   
   .bowser {
     width: 200px;
     position: absolute;
-    z-index: 4;
-    top: 750px;
-    left: 300px;
+    z-index: 2;
+    top: 260px;
+    left: 580px;
   }
 
   /* 1 - Posicione o Mário acima do Goomba.
