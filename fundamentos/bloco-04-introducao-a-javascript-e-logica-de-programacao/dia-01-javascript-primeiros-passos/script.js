@@ -21,7 +21,7 @@ const conditionTwo = false;
 
 console.log(conditionOne && conditionTwo);
 
-
+//********************************** */
 
 let a = 15;
 let b = 20;
@@ -41,6 +41,7 @@ console.log(divisão)
 let módulo = (a%b);
 console.log(módulo)
 
+//************************************* */
 
 var exercicio2 = "exercicio2"
 console.log(exercicio2)
@@ -53,8 +54,23 @@ if(c>d)
 else
 console.log(d);
 
+//************************************ */
 var exercicio3 = "exercicio3"
 console.log(exercicio3)
+
+let e = 45;
+let f = 55;
+let g = 33;
+
+if(e>f&&e>g)
+console.log(e)
+else if(f>e&&f>g)
+console.log(f)
+else
+console.log(g);
+
+
+
 
 
 
