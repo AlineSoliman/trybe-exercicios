@@ -42,6 +42,22 @@ let módulo = (a%b);
 console.log(módulo)
 
 
+var exercicio2 = "exercicio2"
+console.log(exercicio2)
+
+let c = 25;
+let d = 20;
+
+if(c>d)
+    console.log(c);
+else
+console.log(d);
+
+var exercicio3 = "exercicio3"
+console.log(exercicio3)
+
+
+
 
 
 
