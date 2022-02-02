@@ -69,6 +69,13 @@ console.log(f)
 else
 console.log(g);
 
+//************************************ */
+var exercicio4 = "exercicio4"
+console.log(exercicio4)
+
+
+
+
 
 
 
