@@ -113,8 +113,17 @@ else if (anguloTriangulo == 180) {
 var exercicio6 = "exercicio6"
 console.log(exercicio6)
 
+// torre -> linha reta
 
+let peca = "TORRE";
+let pecaXadrez = peca.toLocaleLowerCase();
 
+if (pecaXadrez == "torre" ) {
+  console.log("Essa peça se move em linha reta");
+} else {
+  console.log("Não reconheço essa peça");
+}
+ 
 
 
 
