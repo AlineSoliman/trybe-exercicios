@@ -23,22 +23,22 @@ console.log(conditionOne && conditionTwo);
 
 //********************************** */
 
-let a = 15;
-let b = 20;
+const a = 15;
+const b = 20;
 
-let adição = (a+b);
+const adição = (a+b);
 console.log(adição)
 
-let subtração = (a-b);
+const subtração = (a-b);
 console.log(subtração)
 
-let multiplicação = (a*b);
+const multiplicação = (a*b);
 console.log(multiplicação)
 
-let divisão = (a/b);
+const divisão = (a/b);
 console.log(divisão)
 
-let módulo = (a%b);
+const módulo = (a%b);
 console.log(módulo)
 
 //************************************* */
@@ -46,8 +46,8 @@ console.log(módulo)
 var exercicio2 = "exercicio2"
 console.log(exercicio2)
 
-let c = 25;
-let d = 20;
+const c = 25;
+const d = 20;
 
 if(c>d) {
   console.log(c);
@@ -59,9 +59,9 @@ else {
 var exercicio3 = "exercicio3"
 console.log(exercicio3)
 
-let e = 45;
-let f = 55;
-let g = 33;
+const e = 45;
+const f = 55;
+const g = 33;
 
 if(e>f&&e>g) {
   console.log(e)
@@ -78,11 +78,16 @@ else {
 var exercicio4 = "exercicio4"
 console.log(exercicio4)
 
+const x = 27;
 
-if (condition) {
-  
-} else {
-  
+if (x > 0) {
+  console.log("positive");
+} 
+else if (x < 0) {
+  console.log("negative");
+}
+else {
+  console.log("zero");
 }
 
 
