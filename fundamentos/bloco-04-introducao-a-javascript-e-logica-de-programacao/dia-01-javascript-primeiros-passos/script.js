@@ -49,11 +49,12 @@ console.log(exercicio2)
 let c = 25;
 let d = 20;
 
-if(c>d)
-    console.log(c);
-else
-console.log(d);
-
+if(c>d) {
+  console.log(c);
+}
+else {
+  console.log(d);
+}
 //************************************ */
 var exercicio3 = "exercicio3"
 console.log(exercicio3)
@@ -62,16 +63,28 @@ let e = 45;
 let f = 55;
 let g = 33;
 
-if(e>f&&e>g)
-console.log(e)
-else if(f>e&&f>g)
-console.log(f)
-else
-console.log(g);
+if(e>f&&e>g) {
+  console.log(e)
+}
+else if(f>e&&f>g) {
+  console.log(f)
+}
+else {
+  console.log(g);
+}
+
 
 //************************************ */
 var exercicio4 = "exercicio4"
 console.log(exercicio4)
+
+
+if (condition) {
+  
+} else {
+  
+}
+
 
 
 
