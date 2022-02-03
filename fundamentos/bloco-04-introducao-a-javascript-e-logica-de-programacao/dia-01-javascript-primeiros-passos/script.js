@@ -124,7 +124,30 @@ if (pecaXadrez == "torre" ) {
   console.log("Não reconheço essa peça");
 }
  
+//************************************ */
+var exercicio7 = "exercicio7"
+console.log(exercicio7)
 
+let Porcentagem = 45
+
+if (Porcentagem <0 || Porcentagem > 100) {
+  console.log("Insira uma porcentagem válida");
+}
+else if (Porcentagem >= 90){
+  console.log("A");
+} 
+ else if(Porcentagem >= 80) {
+  console.log("B");
+  } 
+  else if (Porcentagem >= 60) {
+    console.log("C");
+  }
+  else if (Porcentagem >= 50) {
+    console.log("D");
+  }
+  else {
+    console.log("F");
+  }
 
 
 
