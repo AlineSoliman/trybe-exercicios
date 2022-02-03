@@ -90,8 +90,23 @@ else {
   console.log("zero");
 }
 
+//************************************ */
+var exercicio5 = "exercicio5"
+console.log(exercicio5)
 
+const angulo1 = 26;
+const angulo2 = 52;
+const angulo3 = 48;
+const anguloTriangulo = (angulo1+angulo2+angulo3);
 
+if (angulo1 < 0 || angulo2 < 0 || angulo3 <0){
+  console.log ("ângulo inválido!")
+}
+else if (anguloTriangulo == 180) {
+  console.log(true)  
+} else {
+  console.log(false) 
+}
 
 
 
