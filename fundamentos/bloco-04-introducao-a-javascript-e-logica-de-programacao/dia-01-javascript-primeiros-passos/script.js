@@ -149,6 +149,24 @@ else if (Porcentagem >= 90){
     console.log("F");
   }
 
+//************************************ */
+var exercicio8 = "exercicio8"
+console.log(exercicio8)
+
+
+const num1 = 5;
+const num2 = 6; 
+const num3 = 8;
+
+let par = "false"
+
+if (num1%2 == 0 || num2%2 == 0 ||num3%2 == 0);{
+  par = "true";
+};
+console.log(par);
+
+
+
 
 
 
