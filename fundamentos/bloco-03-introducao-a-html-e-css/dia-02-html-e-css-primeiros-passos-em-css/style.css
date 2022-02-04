@@ -1,0 +1,32 @@
+h1{
+    font-size:65px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+ul{
+    background-color: orchid;
+     font-style: italic;
+     text-decoration: underline;
+}
+.cores-favoritas{
+    background-color:palegreen;
+}
+p{
+    font-weight: 600;
+    font-size: 3em;
+
+}
+body{
+    font-size: 16 px;
+}
+#amarelo{
+    color: yellow;
+}
+#vermelho{
+    color: red;
+}
+#marrom{
+    color: brown;
+}
