@@ -66,5 +66,40 @@ let indexOfPortfolio = menu.indexOf(elemento);
 
 console.log(indexOfPortfolio);
 
+// Adicione o valor "Contato" no final do array menu :
+
+menu.push("Contato")
+console.log(menu);
+
+//FOR
+
+let cars = ['Saab', 'Volvo', 'BMW'];
+console.log(cars[0]); // Saab
+console.log(cars[1]); // Volvo
+console.log(cars[2]); // BMW
+
+
+
+
+for (let index = 0; index < cars.length; index += 1) {
+console.log(cars[index]);
+}
+
+// Utilize o for para imprimir os elementos da lista groceryList com o console.log() :
+let groceryList = ['Arroz', 'Feijão', 'Alface', 'Melancia'];
+for(let i=0; i<groceryList.length; i+= 1){
+    console.log(groceryList[i]);
+}
+
+ //FOR /OF
+
+let numeros = [1,2,3,4,5];
+for(let numero of numeros) {
+console.log(numero);
+}
+
+// O laço for/of permite iterar os valores das propriedades, nos retornando os números dentro do array numeros
+// // Vamos para outro exemplo:
+
 
 
