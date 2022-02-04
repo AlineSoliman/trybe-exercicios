@@ -115,12 +115,28 @@ console.log(exercicio6)
 
 // torre -> linha reta
 
-let peca = "TORRE";
+let peca = "Dama";
 let pecaXadrez = peca.toLocaleLowerCase();
 
 if (pecaXadrez == "torre" ) {
   console.log("Essa peça se move em linha reta");
-} else {
+} 
+else if (pecaXadrez == "rei" ) {
+  console.log("Essa peça se move em qualquer direção, uma casa por vez");
+}
+else if (pecaXadrez == "dama" ) {
+  console.log("Essa peça se move em qualquer direção, quantas casas quiser");
+}
+else if (pecaXadrez == "bispo" ) {
+  console.log("Essa peça se move em diagonal, quantas casas quiser");
+}
+else if (pecaXadrez == "cavalo" ) {
+  console.log("Essa peça se move em um-dois ou em L ");
+}
+else if (pecaXadrez == "peão" ) {
+  console.log("Essa peça move-se sempre uma casa para frente, exceto no primeiro movimento, quando pode mover-se duas casas.");
+}
+else {
   console.log("Não reconheço essa peça");
 }
 
