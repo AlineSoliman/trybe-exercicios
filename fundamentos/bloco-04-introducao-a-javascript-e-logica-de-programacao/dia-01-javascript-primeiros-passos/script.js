@@ -206,41 +206,42 @@ var exercicio11 = "exercicio11"
 console.log(exercicio11)
 
 
-let salarioBruto = 3000,00
+let salarioBruto = 3000
+let inss;
+let ir;
 
-if(salarioBruto até R$ 1.556,94)
-  console.log( 8/100);
+
+if(salarioBruto<= 1.556,94)
+  inss = 0.08*salarioBruto;
 else if (salarioBruto > 1.556,95 && salarioBruto < 2.594,92) {
-  console.log( 9/100)
+  inss = 0.09*salarioBruto;
 }
 else if (salarioBruto > 2.594,93 && salarioBruto < 5.189,82) {
-  console.log( 11/100)
+  inss = 0.11*salarioBruto;
 }
-else (salarioBruto > 5.189,82) {
-  console.log( 570,88)
+else{
+  inss = 570,88;
 }
-if
 
-// IR (Imposto de Renda)
+const salarioSemInss= salarioBruto-inss;
 
-let salario;
-
-if (salario < 1.903,98) {
-  console.log(0);
+if (salarioSemInss < 1.903,98) {
+  ir=0;
 } 
-else if(salario >= 1.903,99 && salario <= 2.826,65){
-  console.log(142,80);
+else if(salarioSemInss >= 1.903,99 && salario <= 2.826,65){
+  ir=142,80;
 }
-else if(salario >= 2.826,66 && salario <= 3.751,05){
-  console.log(354,80);
+else if(salarioSemInss >= 2.826,66 && salario <= 3.751,05){
+  ir=354,80;
 }
-else if(salario >= 3.751,06 && salario <= 4.664,68){
-  console.log(636,13);
+else if(salarioSemInss >= 3.751,06 && salario <= 4.664,68){
+  ir= 636,13;
 }
-else(salario > 4.664,69 ){
-  console.log(869,36);
+else{
+  ir=869,36;
 }
 
+console.log("Salário final: R$" + (salarioSemInss - ir));
 
 
 
