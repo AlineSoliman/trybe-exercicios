@@ -123,7 +123,8 @@ if (pecaXadrez == "torre" ) {
 } else {
   console.log("Não reconheço essa peça");
 }
- 
+
+
 //************************************ */
 var exercicio7 = "exercicio7"
 console.log(exercicio7)
@@ -136,34 +137,52 @@ if (Porcentagem <0 || Porcentagem > 100) {
 else if (Porcentagem >= 90){
   console.log("A");
 } 
- else if(Porcentagem >= 80) {
+else if(Porcentagem >= 80) {
   console.log("B");
-  } 
-  else if (Porcentagem >= 60) {
-    console.log("C");
-  }
-  else if (Porcentagem >= 50) {
-    console.log("D");
-  }
-  else {
-    console.log("F");
-  }
+} 
+else if (Porcentagem >= 60) {
+  console.log("C");
+}
+else if (Porcentagem >= 50) {
+  console.log("D");
+}
+else {
+  console.log("F");
+}
 
 //************************************ */
 var exercicio8 = "exercicio8"
 console.log(exercicio8)
 
 
+// const num1 = 5;
+// const num2 = 6; 
+// const num3 = 8;
+
+// let par = "false"
+
+// if (num1%2 == 0 || num2%2 == 0 ||num3%2 == 0);{
+//   par = "true";
+// };
+// console.log(par);
+
+
+//************************************ */
+var exercicio9 = "exercicio9"
+console.log(exercicio9)
+
+
 const num1 = 5;
 const num2 = 6; 
 const num3 = 8;
 
-let par = "false"
+let impar = "false"
 
-if (num1%2 == 0 || num2%2 == 0 ||num3%2 == 0);{
-  par = "true";
+if (num1%2 != 0 || num2%2 != 0 ||num3%2 != 0);{
+  impar = "true";
 };
-console.log(par);
+console.log(impar);
+
 
 
 
