@@ -184,6 +184,26 @@ if (num1%2 != 0 || num2%2 != 0 ||num3%2 != 0);{
 console.log(impar);
 
 
+//************************************ */
+var exercicio10 = "exercicio10"
+console.log(exercicio10)
+
+const custo = 23;
+const venda = 65;
+
+const custoTotal = custo*0.2+custo;
+
+const lucro = custoTotal*venda;
+
+if(custo < 0 || venda < 0) {
+  console.log("Coloque um valor válido");
+} else if (lucro*1000!= 0){
+  console.log(lucro*1000);
+}
+
+
+
+
 
 
 
