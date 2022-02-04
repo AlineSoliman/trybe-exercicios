@@ -201,6 +201,48 @@ if(custo < 0 || venda < 0) {
   console.log(lucro*1000);
 }
 
+//************************************ */
+var exercicio11 = "exercicio11"
+console.log(exercicio11)
+
+
+let salarioBruto = 3000,00
+
+if(salarioBruto até R$ 1.556,94)
+  console.log( 8/100);
+else if (salarioBruto > 1.556,95 && salarioBruto < 2.594,92) {
+  console.log( 9/100)
+}
+else if (salarioBruto > 2.594,93 && salarioBruto < 5.189,82) {
+  console.log( 11/100)
+}
+else (salarioBruto > 5.189,82) {
+  console.log( 570,88)
+}
+if
+
+// IR (Imposto de Renda)
+
+let salario;
+
+if (salario < 1.903,98) {
+  console.log(0);
+} 
+else if(salario >= 1.903,99 && salario <= 2.826,65){
+  console.log(142,80);
+}
+else if(salario >= 2.826,66 && salario <= 3.751,05){
+  console.log(354,80);
+}
+else if(salario >= 3.751,06 && salario <= 4.664,68){
+  console.log(636,13);
+}
+else(salario > 4.664,69 ){
+  console.log(869,36);
+}
+
+
+
 
 
 
