@@ -1,8 +1,8 @@
 // crie um algoritmo que retorne o fatorial de 10.
-let fatorial10 = 0;
-let fatorial = 0;
+
+let fatorial = 1;
 
 for(let i=1; i<=10; i+=1){
-fatorial = fatorial10*=i;
+fatorial = fatorial*i;
 }
 console.log(fatorial);
