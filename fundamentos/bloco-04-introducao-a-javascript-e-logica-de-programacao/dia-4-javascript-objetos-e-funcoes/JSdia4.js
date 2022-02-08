@@ -174,10 +174,19 @@ let info2 = {
     recorrente: 'Sim',
 };
 
+// for(let index in info){
+//     for(let index in info2)
+//     console.log(info[index] + " "+info2[index])
+//     if (info.recorrente == 'Sim'&& info2.recorrente == 'Sim'){
+//         console.log("Ambos recorrentes");
+// }
+// };
+
+
 for(let index in info){
-    for(let index in info2)
-    console.log(info[index] + " "+info2[index])
-    if (info.recorrente == 'Sim'&& info2.recorrente == 'Sim'){
-        console.log("Ambos recorrentes");
+    if(index == 'recorrente' && info[index] =='Sim' && info2[index]=='Sim'){
+    console.log("Ambos recorrentes");
+    }else{
+    console.log(info[index] + " e "+info2[index])
 }
 };
