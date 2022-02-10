@@ -15,8 +15,7 @@ let soma ;
 
 // for(let i = 0; i< word.length;i-=1){
 //     // console.log(word[i]);
-//     soma = word-i;
-
+//     soma = word-i; 
 // }
 // console.log(soma);
 console.log(word);
