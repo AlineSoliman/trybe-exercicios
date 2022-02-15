@@ -100,13 +100,15 @@ console.log(sectionTag2.appendChild(img));
 
 
 // 8 Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, um , dois , três , ... como valores da lista. Essa lista deve ser filha do section criado no passo 6;
+let ul1 = document.createElement('ul')
+ul1.className = 'ulist'
+console.log(sectionTag3.appendChild(ul1))
 let array = ['um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez'];
 for (let i = 0; i < array.length; i+= 1) {
   list = array[i];
-  console.log(array[i]);
   let lista = document.createElement('li');
   lista.innerText = list;
-  console.log(sectionTag3.appendChild(lista));
+  ul1.appendChild(lista);
 }
 // 9 Adicione 3 tags h3 , todas sendo filhas do main criado no passo 2.
 for (let i = 1; i <= 3; i += 1) {
@@ -136,9 +138,8 @@ let centralizar = document.getElementsByClassName('right-content')[0].style.marg
 console.log(centralizar);
 // Troque a cor de fundo do elemento pai da section criada no passo 3 (aquela que possui a classe center-content ) para a cor verde;
 let changeColor = document.getElementsByClassName('center-content')[0].parentNode.style.background = 'green';
-// Remova os dois últimos elementos ( nove e dez ) da lista criada no passo 8.
-ul.lastChild.remove();
-ul.lastChild.remove();
+
+
 
         </script>
   </body>
