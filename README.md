@@ -51,7 +51,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 - [x] 6-1: _HTML e CSS - Formulários_
 - [x] 6-2: _Bibliotecas Javascript e Estruturas CSS_
-- [] 6-3: _CSS Flexbox - Parte 1_
+- [x] 6-3: _CSS Flexbox - Parte 1_
 - [] 6-4: _CSS Flexbox - Parte 2_
 - [] 6-5: _CSS responsivo - Mobile First_
 - [] 6-6: _ [Projeto - página inicial do Facebook] () _
