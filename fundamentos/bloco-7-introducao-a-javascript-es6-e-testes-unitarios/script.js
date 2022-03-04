@@ -25,7 +25,7 @@ const verifyIsNumber = (value1, value2) => {
     }
   };
   
-  const sum = (value1, value2) => {
+  const sum = (value1, value2) => { // try/catch para capturar o erro e tratá-lo
     try {
       verifyIsNumber(value1, value2);
       return value1 + value2;
