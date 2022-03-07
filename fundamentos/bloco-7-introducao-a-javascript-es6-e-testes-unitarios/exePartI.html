@@ -16,6 +16,9 @@
   <p id='result'></p>
   <script>
     function numeroVálido (value1,value2){
+      if (isNaN(value1)|| isNaN(value2)) {
+        throw new Error ('Insira dois números')
+      }
       if(!value1 || !value2) {
           throw new Error("Insira dois números");
         }
