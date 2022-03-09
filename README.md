@@ -41,7 +41,6 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 5-2: _JavaScript - Trabalhando com itens_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Armazenamento na Web_
-- [] 5-5: _ [Projeto - Gerador de Memes] () _
 - [] 5-6: _ [Projeto - Pixel Art] () _
 - [] 5-7: _ [Projeto - Lista de tarefas] () _
 
@@ -56,7 +55,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 ##### Bloco 7: JavaScript ES6 e testes de unidade
 
-- [] 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
+- [x] 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
 - [] 7-2: _JavaScript ES6 - Objetos_
 - [] 7-3: _Testes Unity em JavaScript_
 - [] 7-4: _ [Projeto - Testes de Unidade JavaScript] () _
