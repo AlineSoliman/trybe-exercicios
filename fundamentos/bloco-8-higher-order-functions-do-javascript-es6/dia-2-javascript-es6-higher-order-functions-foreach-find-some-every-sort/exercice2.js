@@ -67,7 +67,7 @@ const books = [
 function smallerName(array) {
     let nameBook;
     array.forEach((element) => {
-      if (!nameBook|| element.name.length < nameBook.length) {
+      if (!nameBook|| element.name.length < nameBook.length) { // negação de variável preechida !namebook para dizer que está vazia. Tentei com namebook==="", mas não deu certo;
         nameBook = element.name;
       }
       
