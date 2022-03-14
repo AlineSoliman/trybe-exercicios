@@ -57,7 +57,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 - [x] 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
 - [x] 7-2: _JavaScript ES6 - Objetos_
-- [] 7-3: _Testes Unity em JavaScript_
+- [x] 7-3: _Testes Unity em JavaScript_
 - [] 7-4: _ [Projeto - Testes de Unidade JavaScript] () _
 
 ##### Bloco 8: JavaScript ES6
