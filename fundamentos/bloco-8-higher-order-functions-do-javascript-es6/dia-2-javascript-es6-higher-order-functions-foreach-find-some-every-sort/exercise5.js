@@ -67,6 +67,6 @@ const books = [
 const expectedResult = false;
 
 function everyoneWasBornOnSecXX(array) {
-    return array.filter((element) => element.author.birthYear>=1901<=2000)
+    return array.every((element) => element.author.birthYear>=1901<=2000)
 }
 console.log(everyoneWasBornOnSecXX(books));
