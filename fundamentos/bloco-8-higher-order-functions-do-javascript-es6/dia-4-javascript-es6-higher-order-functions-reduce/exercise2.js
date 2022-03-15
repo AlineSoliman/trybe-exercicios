@@ -67,8 +67,8 @@ const expectedResult =
 
 function reduceNames() {
   const names = books.reduce((acc,book, index, array) => {
-    if (index === array.length -1 )return `${acc}${book.author.name}.`;
-    return `${acc}${book.author.name},`;
+    if (index === array.length -1 )return `${acc}${book.author.name}.`; // se for o último nome da lista, coloca ponto
+    return `${acc}${book.author.name},`;// se for nome no meio da lista, coloca nome = ','
   }, '');
     return names.trim(); //O método trim() remove os espaços em branco 
 }
