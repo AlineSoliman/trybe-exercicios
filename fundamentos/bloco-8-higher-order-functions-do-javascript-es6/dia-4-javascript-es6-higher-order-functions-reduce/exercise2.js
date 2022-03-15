@@ -70,6 +70,6 @@ function reduceNames() {
     if (index === array.length -1 )return `${acc}${book.author.name}.`;
     return `${acc}${book.author.name},`;
   }, '');
-    return names.trim();
+    return names.trim(); //O método trim() remove os espaços em branco 
 }
 console.log(reduceNames(books));
