@@ -66,5 +66,17 @@ const books = [
 // Dica: use as funções map , sort
 
 function nameAndAge() {
-    // escreva seu código aqui
+    return books
+    .map((book) => (
+      {
+        author: book.author.name,
+        age: book.releaseYear - book.author.birthYear,
+      }
+    ))
+    .sort((a, b) => a.age - b.age);
+    
 }
+console.log(nameAndAge(books));
+
+
+
