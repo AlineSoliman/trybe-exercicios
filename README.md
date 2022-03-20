@@ -64,7 +64,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 - [x] 8-1: _JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort_
 - [x] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
-- [] 8-3: _JavaScript ES6 - Funções de ordem superior - reduce_
+- [x] 8-3: _JavaScript ES6 - Funções de ordem superior - reduce_
 - [] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
 - [] 8-5: _ [Projeto - Funções do zoológico] () _
 
