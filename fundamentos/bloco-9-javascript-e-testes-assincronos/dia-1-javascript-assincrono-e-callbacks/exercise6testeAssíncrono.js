@@ -22,7 +22,7 @@ const sendMarsTemperature = (onSucces, onError) => {
   const messageSent =  Math.random() <= 0.6;
   setTimeout(() => {
     if(messageSent) onSucces (current)
-    else onError('Robot is');
+    else onError('Robot is busy');
   }, messageDelay());
 }
 // definição da função sendMarsTemperature...
