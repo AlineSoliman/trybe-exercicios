@@ -65,7 +65,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 8-1: _JavaScript ES6 - Funções de ordem superior - forEach, find, some, every, sort_
 - [x] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
 - [x] 8-3: _JavaScript ES6 - Funções de ordem superior - reduce_
-- [] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
+- [x] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
 - [] 8-5: _ [Projeto - Funções do zoológico] () _
 
 ##### Bloco 9: assincronia e retornos de chamada
@@ -73,13 +73,6 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [] 9-1: _JavaScript assíncrono e retornos de chamada_
 - [] 9-2: _Promessas JavaScript_
 - [] 9-3: _ [Projeto - Carrinho de Compras] () _
-
-##### Bloco 10: Brincadeira
-
-- [] 10-1: _Primeiros passos na brincadeira_
-- [] 10-2: _Jest - Testes Assíncronos_
-- [] 10-3: _Jest - Simulando Comportamentos_
-- [] 10-4: _ [Projeto - Montagem e Simulação de Brincadeiras] () _
 
 ## Desenvolvimento front-end: hourglass_flowing_sand:
 
