@@ -61,4 +61,12 @@ const books = [
     },
   ];
   
+function ficcaoFantasia() {
+  return books.filter((book) => (
+    book.genre === 'Fantasia' || book.genre === 'Ficção Científica'
+  ));
+}
+console.log(ficcaoFantasia(books));
+
   // Adicione o código do exercício aqui:
+  // 3 - Crie um array com todos os objetos que possuem gênero ficção científica ou fantasia.
