@@ -71,7 +71,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 ##### Bloco 9: assincronia e retornos de chamada
 
 - [x] 9-1: _JavaScript assíncrono e retornos de chamada_
-- [] 9-2: _Promessas JavaScript_
+- [x] 9-2: _Promessas JavaScript_
 - [] 9-3: _ [Projeto - Carrinho de Compras] () _
 
 ## Desenvolvimento front-end: hourglass_flowing_sand:
