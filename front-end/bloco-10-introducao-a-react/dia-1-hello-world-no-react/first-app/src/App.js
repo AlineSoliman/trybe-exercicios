@@ -1,4 +1,3 @@
-import React from 'react'; 
 import './App.css';
 
 const array = ['aprender React', 'praticar inglês', 'fazer exercícios', 'continuar ontrack na Trybe', 'fazer todos os projetos' ];
