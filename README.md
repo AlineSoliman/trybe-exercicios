@@ -58,7 +58,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 7-1: _JavaScript ES6 - let, const, funções de seta e literais de modelo_
 - [x] 7-2: _JavaScript ES6 - Objetos_
 - [x] 7-3: _Testes Unity em JavaScript_
-- [] 7-4: _ [Projeto - Testes de Unidade JavaScript] () _
+- [x] 7-4: _ [Projeto - Testes de Unidade JavaScript] () _
 
 ##### Bloco 8: JavaScript ES6
 
@@ -66,19 +66,21 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
 - [x] 8-3: _JavaScript ES6 - Funções de ordem superior - reduce_
 - [x] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
-- [] 8-5: _ [Projeto - Funções do zoológico] () _
+- [x] 8-5: _ [Projeto - Funções do zoológico] () _
 
 ##### Bloco 9: assincronia e retornos de chamada
 
 - [x] 9-1: _JavaScript assíncrono e retornos de chamada_
 - [x] 9-2: _Promessas JavaScript_
-- [] 9-3: _ [Projeto - Carrinho de Compras] () _
+- [x] 9-3: _ [Projeto - Carrinho de Compras] () _
+
+##### Bloco 10: ---
 
 ## Desenvolvimento front-end: hourglass_flowing_sand:
 
 ##### Bloco 11: Introdução - Reagir
 
-- [] 11-1: _'Olá, mundo!' não reaja! _
+- [x] 11-1: _'Olá, mundo!' não reaja! _
 - [] 11-2: _Componentes do React_
 - [] 11-3: _ [Projeto - Biblioteca de Cartões de Filme] () _
 
