@@ -81,8 +81,8 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 ##### Bloco 11: Introdução - Reagir
 
 - [x] 11-1: _'Olá, mundo!' não reaja! _
-- [] 11-2: _Componentes do React_
-- [] 11-3: _ [Projeto - Biblioteca de Cartões de Filme] () _
+- [x] 11-2: _Componentes do React_
+- [] 11-3: _ [Projeto - Sistema Solar] () _
 
 ##### Bloco 12: Reagir
 
