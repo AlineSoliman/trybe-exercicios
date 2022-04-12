@@ -86,7 +86,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 ##### Bloco 12: Reagir
 
-- [] 12-1: _Componentes com status_
+- [x] 12-1: _Componentes com status_
 - [] 12-2: _React Events and Forms_
 - [] 12-3: _ [Projeto - Biblioteca de cartões de filme com estado] () _
 
