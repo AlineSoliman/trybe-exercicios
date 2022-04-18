@@ -88,7 +88,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 - [x] 12-1: _Componentes com status_
 - [x] 12-2: _React Events and Forms_
-- [] 12-3: _ [Projeto - Tryunfo] () _
+- [x] 12-3: _ [Projeto - Tryunfo] () _
 
 ##### Bloco 13: Reagir
 
