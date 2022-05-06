@@ -92,14 +92,14 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 ##### Bloco 13: Reagir
 
-- [] 13-1: _Melhorando a reutilização de componentes: props.children e PropTypes_
-- [] 13-2: _React Component Lifecycle_
-- [] 13-3: _React Router_
-- [] 13-4: _ [Projeto - Biblioteca de Cartões de Filme CRUD] () _
+- [x] 13-1: _Melhorando a reutilização de componentes: props.children e PropTypes_
+- [x] 13-2: _React Component Lifecycle_
+- [x] 13-3: _React Router_
+- [x] 13-4: _ [Projeto - Trybetunes] () _
 
-##### Bloco 14: Metodologias jurídicas
+##### Bloco 14: Metodologias Ágeis
 
-- [] 14-1: _Metodologias à ??geis_
+- [] 14-1: _Metodologias àgeis_
 - [] 14-2: _ [Projeto - Loja Online Frontend] () _
 
 ##### Bloco 15: Testes de reação
