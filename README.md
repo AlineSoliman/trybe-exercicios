@@ -104,7 +104,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 ##### Bloco 15: Testes de reação
 
-- [] 15-1: _Testando React com React Testing Library_
+- [x] 15-1: _Testando React com React Testing Library_
 - [] 15-2: _Testando o React com a Biblioteca de Testes do React - Parte 2_
 - [] 15-3: _ [Projeto - Testes de reação] () _
 
