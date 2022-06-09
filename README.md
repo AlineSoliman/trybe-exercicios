@@ -124,8 +124,8 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 ##### Bloco 18: API React & Context
 
 - [x] 18-1: _React API Context_
-- [] 18-2: _React Hooks - useState e useContext_
-- [] 18-3: _React Hooks - useEffect e Custom Hooks_
+- [x] 18-2: _React Hooks - useState e useContext_
+- [x] 18-3: _React Hooks - useEffect e Custom Hooks_
 - [] 18-4: _ [Projeto - StarWars Datatable com API de contexto e ganchos] () _
 
 ##### Bloco 19: Projeto Final Front-end
