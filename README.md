@@ -119,11 +119,11 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 ##### Bloco 17: Projeto Reagir
 
-- [] 17-1: _ [Projeto - Jogo de Trivia] () _
+- [x] 17-1: _ [Projeto - Jogo de Trivia] () _
 
 ##### Bloco 18: API React & Context
 
-- [] 18-1: _React API Context_
+- [x] 18-1: _React API Context_
 - [] 18-2: _React Hooks - useState e useContext_
 - [] 18-3: _React Hooks - useEffect e Custom Hooks_
 - [] 18-4: _ [Projeto - StarWars Datatable com API de contexto e ganchos] () _
