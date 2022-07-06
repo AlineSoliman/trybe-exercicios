@@ -1,0 +1,13 @@
+ 1100  docker pull debian
+ 1101  docker pull debian: stable-slim
+ 1102  docker container run debian:stable-slim
+ 1103  docker container run -it debian:stable-slim
+ 1104  docker ps -l
+ 1105  docker start 83
+ 1106  docker container ls -a
+ 1107  docker attach 83
+ 1108  docker container rm 83
+ 1109  docker container ls -a
+ 1110  git status
+ 1111  git history
+ 1112  view history
