@@ -1,0 +1,5 @@
+1136  docker image build ./ -t cowsay
+ 1137  docker container run cowsay
+ 1138  docker container run cowsay Go Trybe!
+ 1139  docker container run cowsay -f moofasa "#VQV TRYBE"
+ 1140  docker container run cowsay -l
