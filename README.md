@@ -33,7 +33,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 4-2: _JavaScript - Array e Loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e Recursos_
-- [x] 4-5: _ [Projeto - Funções do Playground] () _
+- [x] 4-5: _ [Projeto - Funções do Playground] (https://github.com/AlineSoliman/Project-PlaygroundFunctions-Trybe) _
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
@@ -66,7 +66,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 8-2: _JavaScript ES6 - Funções de ordem superior - mapa e filtro_
 - [x] 8-3: _JavaScript ES6 - Funções de ordem superior - reduce_
 - [x] 8-4: _JavaScript ES6 - operador de propagação, parâmetro de descanso, desestruturação e mais_
-- [x] 8-5: _ [Projeto - Funções do zoológico] ( https://github.com/AlineSoliman/Project-PlaygroundFunctions-Trybe) _
+- [x] 8-5: _ [Projeto - Funções do zoológico] ( https://github.com/AlineSoliman/Zoo-Functions-Project) _
 
 ##### Bloco 9: assincronia e retornos de chamada
 
