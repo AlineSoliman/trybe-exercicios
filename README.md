@@ -25,7 +25,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 3-2: _HTML e CSS - Introdução ao CSS_
 - [x] 3-3: _HTML e CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML semântico_
-- [x] 3-5: _ [Projeto - HTML e CSS] (AlineSoliman/Projeto-Lessons-Lerned---Trybe.git) _
+- [x] 3-5: _ [Projeto - HTML e CSS] (https://github.com/AlineSoliman/Projeto-Lessons-Lerned---Trybe) _
 
 ##### Bloco 4: Introdução - JavaScript
 
