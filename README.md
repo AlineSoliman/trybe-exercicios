@@ -106,7 +106,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 - [x] 15-1: _Testando React com React Testing Library_
 - [x] 15-2: _Testando o React com a Biblioteca de Testes do React - Parte 2_
-- [x] 15-3: _ [Projeto - Testes de reação] () _
+- [x] 15-3: _ [Projeto - Testes de reação] ( https://github.com/AlineSoliman/Project-React-Testing-Library) _
 
 ##### Bloco 16: Introdução ao Redux
 
