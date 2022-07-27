@@ -140,7 +140,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 20-2: _Encontrando dados em um banco de dados_
 - [x] 20-3: _Falando dados especificamente_
 - [x] 20-4: _Manipulação de tabelas_
-- [x] 20-5: _ [Projeto - Todos Por Um] () _
+- [x] 20-5: _ [Projeto - Todos Por Um] ( https://github.com/AlineSoliman/Project-Docker-Todo-List ) _
 
 ##### Bloco 21: Bancos de dados relacionais
 
