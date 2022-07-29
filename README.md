@@ -147,7 +147,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 21-1: _Funções mais usadas em SQL_
 - [x] 21-2: _Descomplicando JOINs e UNIONs_
 - [x] 21-3: _Rotinas e subconsultas armazenadas_
-- [] 21-4: _ [Projeto - Intensificador de Vocabulário] () _
+- [] 21-4: _ [Projeto - ] () _
 
 ##### Bloco 22: Bancos de dados relacionais
 
