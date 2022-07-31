@@ -1,0 +1,13 @@
+version: '3'
+services:
+  batata:
+    image: ghost:1-alpine
+    environment:
+      - name=value
+    ports:
+      - 2368:2368
+  banco-mysql:
+    image: mysql:5.7
+    ports:
+    - 2368:2368
+      
