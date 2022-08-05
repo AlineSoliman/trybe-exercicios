@@ -134,9 +134,9 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 ##### Bloco 19: Docker: Utilizando Conteiners
 
-- [x] 19-1: _Banco de Dados SQL_
-- [x] 19-2: _Encontrando dados em um banco de dados_
-- [x] 19-3: _Falando dados especificamente_
+- [x] 19-1: _Introdução - Back-end_
+- [x] 19-2: _Utilizando Containers - Docker_
+- [x] 19-3: _Manipulando Imagens no Docker_
 - [x] 19-4: _ [Projeto - Docker Todo-List] ( https://github.com/AlineSoliman/Project-Docker-Todo-List ) _
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
