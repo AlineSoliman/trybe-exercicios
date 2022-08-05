@@ -132,7 +132,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 
 ## Desenvolvimento de back-end: hourglass_flowing_sand:
 
-##### Bloco 19: Introdução - Bancos de dados relacionais
+##### Bloco 19: Docker: Utilizando Conteiners
 
 - [x] 19-1: _Banco de Dados SQL_
 - [x] 19-2: _Encontrando dados em um banco de dados_
