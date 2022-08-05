@@ -74,65 +74,71 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 9-2: _Promessas JavaScript_
 - [x] 9-3: _ [Projeto - Carrinho de Compras] () _
 
-##### Bloco 10: ---
-
 ## Desenvolvimento front-end: hourglass_flowing_sand:
 
-##### Bloco 11: Introdução - Reagir
+##### Bloco 10: Introdução - Reagir
 
-- [x] 11-1: _'Olá, mundo!' não reaja! _
-- [x] 11-2: _Componentes do React_
-- [x] 11-3: _ [Projeto - Sistema Solar] () _
+- [x] 10-1: _'Olá, mundo!' não reaja! _
+- [x] 10-2: _Componentes do React_
+- [x] 10-3: _ [Projeto - Sistema Solar] () _
+
+##### Bloco 11: Reagir
+
+- [x] 11-1: _Componentes com status_
+- [x] 11-2: _React Events and Forms_
+- [x] 11-3: _ [Projeto - Tryunfo] () _
 
 ##### Bloco 12: Reagir
 
-- [x] 12-1: _Componentes com status_
-- [x] 12-2: _React Events and Forms_
-- [x] 12-3: _ [Projeto - Tryunfo] () _
+- [x] 12-1: _Melhorando a reutilização de componentes: props.children e PropTypes_
+- [x] 12-2: _React Component Lifecycle_
+- [x] 12-3: _React Router_
+- [x] 12-4: _ [Projeto - Trybetunes] () _
 
-##### Bloco 13: Reagir
+##### Bloco 13: Metodologias Ágeis
 
-- [x] 13-1: _Melhorando a reutilização de componentes: props.children e PropTypes_
-- [x] 13-2: _React Component Lifecycle_
-- [x] 13-3: _React Router_
-- [x] 13-4: _ [Projeto - Trybetunes] () _
+- [x] 13-1: _Metodologias àgeis_
+- [x] 13-2: _ [Projeto - Loja Online Frontend] () _
 
-##### Bloco 14: Metodologias Ágeis
+##### Bloco 14: Testes de reação
 
-- [x] 14-1: _Metodologias àgeis_
-- [x] 14-2: _ [Projeto - Loja Online Frontend] () _
+- [x] 14-1: _Testando React com React Testing Library_
+- [x] 14-2: _Testando o React com a Biblioteca de Testes do React - Parte 2_
+- [x] 14-3: _ [Projeto - Testes de reação] ( https://github.com/AlineSoliman/Project-React-Testing-Library) _
 
-##### Bloco 15: Testes de reação
+##### Bloco 15: Introdução ao Redux
 
-- [x] 15-1: _Testando React com React Testing Library_
-- [x] 15-2: _Testando o React com a Biblioteca de Testes do React - Parte 2_
-- [x] 15-3: _ [Projeto - Testes de reação] ( https://github.com/AlineSoliman/Project-React-Testing-Library) _
+- [x] 15-1: _Introdução ao Redux_
+- [x] 15-2: _Reagir com Redux - Parte 1_
+- [x] 15-3: _Reagir com Redux - Praticar_
+- [x] 15-4: _Reagir com Redux - Parte 2_
+- [x] 15-5: _Testes síncronos com React-Redux_
+- [x] 15-6: _ [Projeto - Trybewallet] () _
 
-##### Bloco 16: Introdução ao Redux
+##### Bloco 16: Projeto Reagir
 
-- [x] 16-1: _Introdução ao Redux_
-- [x] 16-2: _Reagir com Redux - Parte 1_
-- [x] 16-3: _Reagir com Redux - Praticar_
-- [x] 16-4: _Reagir com Redux - Parte 2_
-- [x] 16-5: _Testes síncronos com React-Redux_
-- [x] 16-6: _ [Projeto - Trybewallet] () _
+- [x] 16-1: _ [Projeto - Jogo de Trivia] () _
 
-##### Bloco 17: Projeto Reagir
+##### Bloco 17: API React & Context
 
-- [x] 17-1: _ [Projeto - Jogo de Trivia] () _
+- [x] 17-1: _React API Context_
+- [x] 17-2: _React Hooks - useState e useContext_
+- [x] 17-3: _React Hooks - useEffect e Custom Hooks_
+- [x] 17-4: _ [Projeto - StarWars Datatable com API de contexto e ganchos] () _
 
-##### Bloco 18: API React & Context
+##### Bloco 18: Projeto Final Front-end
 
-- [x] 18-1: _React API Context_
-- [x] 18-2: _React Hooks - useState e useContext_
-- [x] 18-3: _React Hooks - useEffect e Custom Hooks_
-- [x] 18-4: _ [Projeto - StarWars Datatable com API de contexto e ganchos] () _
-
-##### Bloco 19: Projeto Final Front-end
-
-- [x] 19-1: _ [Projeto - Aplicativo de Receita] () _
+- [x] 18-1: _ [Projeto - Aplicativo de Receita] () _
 
 ## Desenvolvimento de back-end: hourglass_flowing_sand:
+
+##### Bloco 19: Introdução - Bancos de dados relacionais
+
+- [x] 20-1: _Banco de Dados SQL_
+- [x] 20-2: _Encontrando dados em um banco de dados_
+- [x] 20-3: _Falando dados especificamente_
+- [x] 20-4: _Manipulação de tabelas_
+- [x] 20-5: _ [Projeto - Todos Por Um] ( https://github.com/AlineSoliman/Project-Docker-Todo-List ) _
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
@@ -147,7 +153,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 21-1: _Funções mais usadas em SQL_
 - [x] 21-2: _Descomplicando JOINs e UNIONs_
 - [x] 21-3: _Rotinas e subconsultas armazenadas_
-- [x] 21-4: _ [Projeto - ] (https://github.com/AlineSoliman/MySql-all-for-one) _
+- [x] 21-4: _ [Projeto - Todos por um  ] (https://github.com/AlineSoliman/MySql-all-for-one) _
 
 ##### Bloco 22: Bancos de dados relacionais
 
