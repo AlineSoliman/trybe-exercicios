@@ -154,12 +154,15 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [x] 21-3: _Rotinas e subconsultas armazenadas_
 - [x] 21-4: _ [Projeto - Todos por um  ] (https://github.com/AlineSoliman/MySql-all-for-one) _
 
-##### Bloco 22: Bancos de dados relacionais
+##### Bloco 22: Desenvolvimento com Node.js
 
-- [x] 22-1: _Transformando ideias em um modelo de banco de dados_
+- [x] 22-1: _Node.js: Um motor JavaScript_
 - [] 22-2: _Normalização, Formas Normais e Despejos_
-- [] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [] 22-3: _ [Projeto - Um Por Todos] () _
+- [] 22-3: _API REST com Express_
+- [] 22-4: _Testes de integração_
+- [] 22-4: _Express: Middlewares_
+- [] 22-5: _Express e MySql_
+- [] 22-6: _ [Projeto - Talk Manager] () _
 
 ##### Bloco 23: Introdução - NoSQL
 
