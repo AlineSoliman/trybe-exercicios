@@ -164,11 +164,13 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [] 22-5: _Express e MySql_
 - [] 22-6: _ [Projeto - Talk Manager] (https://github.com/AlineSoliman/Project-Talk-Manager-Node.js) _
 
-##### Bloco 23: Introdução - NoSQL
+##### Bloco 23: Camada de Servi;co e Arquitetura Rest e Restful
 
-- [] 23-1: _MongoDB - Introdução_
-- [] 23-2: _Operadores de filtro_
-- [] 23-3: _ [Projeto - Voos de Dados] () _
+- [] 23-1: _Arquitetura de Software - Camada de Model_
+- [] 23-2: _Arquitetura de Software - Camada de Controller e Service_
+- [] 23-3: _Arquitetura Web - Rest e Restful_
+- [] 23-4: _Arquitetura de Software - Testando as camadas_
+- [] 23-5: _ [Projeto - Store Manager] () _
 
 ##### Bloco 24: Atualizações
 
