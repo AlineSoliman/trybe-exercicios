@@ -162,7 +162,7 @@ O programa tem mais de 1.500 horas de aulas presenciais e online, e apresenta a 
 - [] 22-4: _Testes de integração_
 - [] 22-4: _Express: Middlewares_
 - [] 22-5: _Express e MySql_
-- [] 22-6: _ [Projeto - Talk Manager] () _
+- [] 22-6: _ [Projeto - Talk Manager] (https://github.com/AlineSoliman/Project-Talk-Manager-Node.js) _
 
 ##### Bloco 23: Introdução - NoSQL
 
